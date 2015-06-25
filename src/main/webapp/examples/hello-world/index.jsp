@@ -319,142 +319,7 @@
 		    color: #fff; background-color: #FF3333; z-index: 9999;">JavaScript error detected</div>
 		
 
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="page">
+		<div id="page">
 
 
 
@@ -499,7 +364,7 @@
 					
 						
 						
-						<a id="clientSnapshot" href="#">Thomas BAGLEY
+						<a id="clientSnapshot" href="#">XXXXX XXXXX
 							<script type="text/javascript">
 								FE.createTooltipWithUrl("clientSnapshot", "https://www.feitest.com/maconsole/clientsnapshot.act?t=4027353531721649663859979&s=tst32013ibc5mjl001&pact=maconsole.clienthomenew&ep=maconsole%2Fclientsearch.act&br=581");
 							</script></a>
@@ -511,24 +376,6 @@
 				
 		
 		
-
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -548,12 +395,6 @@
 	</div>
 	
 	
-	
-	
-	
-	
-	
-	
 
 <div id="clientHome" class='page-main container '>
 
@@ -564,11 +405,11 @@
 <div id="page-title">
 	<div id="page-title-primary">
 		<div style="float: left;">
-				Thomas BAGLEY
+				XXXX XXXXX
 		</div>
 		<div class="spacer"></div>
 	</div>
-	    <div id="page-title-secondary"><b>User#</b> 3535317, <b>Ext Client# </b>L64508655, <b>CashEdge Id: </b>No Linked Accounts</div>
+	    <div id="page-title-secondary"><b>User#</b> XXXXXXX, <b>Ext Client# </b>XXXXXXX, <b>CashEdge Id: </b>XXXXXXXXXX</div>
 </div>
 
 		</div>
@@ -581,39 +422,11 @@
 	
 
 	<div class="page-main-bd">
-		<div id="msgSubAdvised" style="color:red">
-		    	This customer is served by a Sub-Advised partner, Advised Assets Group. Please inform the customer that they must contact Advised Assets Group at 800-345-2345 for service on their account.
-		    </div>
+		
 	    	
 	    	<div class="panel-divider"></div>
 	    	
-		
-
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	
-		
-		
-		
-		
-		
-
-
-
-	
-    
-
-
-
-
-
 <div class="pnl-tbl-frame " id="pnlProfile-panel" style="">
 
 	
@@ -635,44 +448,44 @@
 <tbody>
 <tr class="odd">
 <td style="text-align:left;width:20%;font-weight:bold;">Name</td>
-<td style="text-align:left;width:20%">Thomas BAGLEY</td>
+<td style="text-align:left;width:20%">XXXXXX</td>
 <td style="text-align:left;width:20%;font-weight:bold;">Enrollment Status</td>
-<td style="text-align:left;width:20%">Prospect</td></tr>
+<td style="text-align:left;width:20%">XXXXXX</td></tr>
 <tr class="even">
 <td style="text-align:left;width:20%;font-weight:bold;">Address</td>
-<td style="text-align:left;width:20%">4505 QUEENSTOWN CT</td>
+<td style="text-align:left;width:20%">XXXXXXX</td>
 <td style="text-align:left;width:20%;font-weight:bold;">User Status</td>
-<td style="text-align:left;width:20%">Sponsored</td></tr>
+<td style="text-align:left;width:20%">XXXXXXXXX</td></tr>
 <tr class="odd">
 <td style="text-align:left;width:20%;font-weight:bold;">City, State, Zip</td>
-<td style="text-align:left;width:20%">RALEIGH, NC, 276126355</td>
+<td style="text-align:left;width:20%">XXXXXXXXXX</td>
 <td style="text-align:left;width:20%;font-weight:bold;">Eligibility for IRA</td>
-<td style="text-align:left;width:20%">Not Eligible</td></tr>
+<td style="text-align:left;width:20%">XXXXXXXX</td></tr>
 <tr class="even">
 <td style="text-align:left;width:20%;font-weight:bold;">Phone</td>
-<td style="text-align:left;width:20%">none</td>
+<td style="text-align:left;width:20%">XXXXX</td>
 <td style="text-align:left;width:20%;font-weight:bold;">Retirement Goal</td>
 <td style="text-align:left;width:20%"><a href='javascript:FE.openDialog({href: "https://www.feitest.com/FeContent?t=4027353531721649663859979&s=tst32013ibc5mjl001&pact=maconsole.clienthomenew&ep=maconsole%2Fclientsearch.act%7Cclosedialogbox&br=581&pt=legacydialog&act=maccretincgoal&id=4673174%3A%3A1", onHide: function(){window.location.reload();}});' id='retGoalLnk'>Not Personalized</a></td></tr>
 <tr class="odd">
 <td style="text-align:left;width:20%;font-weight:bold;">Date of Birth </td>
-<td style="text-align:left;width:20%">Aug 02, 1953&nbsp;(Age 61)</td>
+<td style="text-align:left;width:20%">XXXXXXXXX</td>
 <td style="text-align:left;width:20%;font-weight:bold;">Savings (All Accts, 50+)</td>
-<td style="text-align:left;width:20%">$0.00/year</td></tr>
+<td style="text-align:left;width:20%">XXXXX</td></tr>
 <tr class="even">
 <td style="text-align:left;width:20%;font-weight:bold;">Total Non-AUM</td>
-<td style="text-align:left;width:20%">$0.00</td>
-<td style="text-align:left;width:20%;font-weight:bold;">50+ Savings Amount Only</td>
+<td style="text-align:left;width:20%">XXXXXX</td>
+<td style="text-align:left;width:20%;font-weight:bold;">XXXXXX</td>
 <td style="text-align:left;width:20%">n/a</td></tr>
 <tr class="odd">
 <td style="text-align:left;width:20%;font-weight:bold;">Total AUM</td>
-<td style="text-align:left;width:20%">$65,035.10</td>
+<td style="text-align:left;width:20%">XXXXXXX</td>
 <td style="text-align:left;width:20%;font-weight:bold;">Direct Login</td>
-<td style="text-align:left;width:20%">Available</td></tr>
+<td style="text-align:left;width:20%">XXXXXXXX</td></tr>
 <tr class="even">
 <td style="text-align:left;width:20%;font-weight:bold;">Total Portfolio</td>
-<td style="text-align:left;width:20%">$65,035.10</td>
+<td style="text-align:left;width:20%">XXXXXXXX</td>
 <td style="text-align:left;width:20%;font-weight:bold;">Data Aggregation</td>
-<td style="text-align:left;width:20%">Available</td></tr></tbody></table></span>	
+<td style="text-align:left;width:20%">XXXXXXX</td></tr></tbody></table></span>	
 	</div>
 		
 	<div class="pnl-tbl-frame-bot"><span class="pnl-tbl-frame-bot-span"></span></div> <!-- left, bottom, right -->
@@ -687,15 +500,7 @@
 
 <div class="btn-container">
 	<div class="float-left">
-			
-		
-		
-		
-		
-			
-					
-
-					
+							
 	</div>
 	
 	<div class="float-right">
@@ -705,24 +510,6 @@
 	<div style="clear:both;"></div>
 </div>	
 				
-
-	
-
-
-
-	
-
-
-
-	
-
-
-
-					
-
-	
-
-
 
 	
 <div id='popupmenu_clientProfile'></div>
@@ -843,15 +630,7 @@ Y.use('fe-popup-menu', function(Y) {
 
 </script>
 
-		
-		
-		
-    
-
-
-
-
-
+	
 <div class="pnl-tbl-frame " id="pnlPersonalization-panel" style="">
 
 	
@@ -872,14 +651,14 @@ Y.use('fe-popup-menu', function(Y) {
 <tbody>
 <tr class="odd">
 <td style="text-align:left;width:20%;font-weight:bold;">Retirement Age </td>
-<td style="text-align:left;width:20%"><a href='javascript:FE.openDialog({href: "https://www.feitest.com/maconsole/editretage-edit.act?t=4027353531721649663859979&s=tst32013ibc5mjl001&pact=maconsole.clienthomenew&ep=maconsole%2Fclientsearch.act%7Cclosedialogbox&br=581&pt=dialog", onSave: FE.reloadWindow});' id='editage-link'>65</a></td>
+<td style="text-align:left;width:20%"><a href='javascript:FE.openDialog({href: "https://www.feitest.com/maconsole/editretage-edit.act?t=4027353531721649663859979&s=tst32013ibc5mjl001&pact=maconsole.clienthomenew&ep=maconsole%2Fclientsearch.act%7Cclosedialogbox&br=581&pt=dialog", onSave: FE.reloadWindow});' id='editage-link'>XXXXX</a></td>
 <td style="text-align:left;width:20%;font-weight:bold;">Company Stock Cap</td>
-<td style="text-align:left;width:20%">n/a</td></tr>
+<td style="text-align:left;width:20%">XXXXXX</td></tr>
 <tr class="even">
 <td style="text-align:left;width:20%;font-weight:bold;">Risk Tolerance</td>
-<td style="text-align:left;width:20%"><a href='javascript:FE.openDialog({href: "https://www.feitest.com/maconsole/editrisktolerance-edit.act?t=4027353531721649663859979&s=tst32013ibc5mjl001&pact=maconsole.clienthomenew&ep=maconsole%2Fclientsearch.act%7Cclosedialogbox&br=581&pt=dialog", onSave: FE.reloadWindow});' id='edit-link'>Typical for your age</a></td>
+<td style="text-align:left;width:20%"><a href='javascript:FE.openDialog({href: "https://www.feitest.com/maconsole/editrisktolerance-edit.act?t=4027353531721649663859979&s=tst32013ibc5mjl001&pact=maconsole.clienthomenew&ep=maconsole%2Fclientsearch.act%7Cclosedialogbox&br=581&pt=dialog", onSave: FE.reloadWindow});' id='edit-link'>XXXXXXX</a></td>
 <td style="text-align:left;width:20%;font-weight:bold;">Outside Accounts</td>
-<td style="text-align:left;width:20%"><a href='javascript:FE.openDialog({href: "https://www.feitest.com/maconsole/addaccount-create.act?t=4027353531721649663859979&s=tst32013ibc5mjl001&pact=maconsole.clienthomenew&ep=maconsole%2Fclientsearch.act%7Cclosedialogbox&br=581&pt=dialog", onHide: FE.reloadWindow});' id='addaccount-link'>Not Personalized</a></td></tr></tbody></table></span>	
+<td style="text-align:left;width:20%"><a href='javascript:FE.openDialog({href: "https://www.feitest.com/maconsole/addaccount-create.act?t=4027353531721649663859979&s=tst32013ibc5mjl001&pact=maconsole.clienthomenew&ep=maconsole%2Fclientsearch.act%7Cclosedialogbox&br=581&pt=dialog", onHide: FE.reloadWindow});' id='addaccount-link'>XXXXXXXX</a></td></tr></tbody></table></span>	
 	</div>
 		
 	<div class="pnl-tbl-frame-bot"><span class="pnl-tbl-frame-bot-span"></span></div> <!-- left, bottom, right -->
@@ -891,18 +670,6 @@ Y.use('fe-popup-menu', function(Y) {
 <div class="panel-divider-small"></div>
 				
 		
-			
-			
-		
-   	
-    
-     	
-	
-
-
-
-
-
 <div class="pnl-tbl-frame " id="pnlSponsor-panel" style="">
 
 		<div id="pnlSponsor-panel-collapser" class="collapser panel-collapser">
@@ -927,39 +694,39 @@ Y.use('fe-popup-menu', function(Y) {
 <tbody>
 <tr class="odd">
 <td style="text-align:left;width:20%;font-weight:bold;">Plan Sponsor</td>
-<td style="text-align:left;width:20%">American</td>
+<td style="text-align:left;width:20%">XXXXX</td>
 <td style="text-align:left;width:20%;font-weight:bold;">Data as of</td>
-<td style="text-align:left;width:20%">Nov 21, 2014</td></tr>
+<td style="text-align:left;width:20%">XXXXX</td></tr>
 <tr class="even">
 <td style="text-align:left;width:20%;font-weight:bold;">Plan Provider</td>
-<td style="text-align:left;width:20%">Great-West Financial Retirement Plan Services, LLC</td>
+<td style="text-align:left;width:20%">XXXXXXXX</td>
 <td style="text-align:left;width:20%;font-weight:bold;">Last Data Load-Successful</td>
-<td style="text-align:left;width:20%">Nov 24, 2014 (Managed Accounts)</td></tr>
+<td style="text-align:left;width:20%">XXXXXXXXX</td></tr>
 <tr class="odd">
 <td style="text-align:left;width:20%;font-weight:bold;">Salary</td>
-<td style="text-align:left;width:20%">$44,638.52/year</td>
+<td style="text-align:left;width:20%">XXXXXXX</td>
 <td style="text-align:left;width:20%;font-weight:bold;">Last Transaction Date</td>
-<td style="text-align:left;width:20%">n/a</td></tr>
+<td style="text-align:left;width:20%">XXXXXX</td></tr>
 <tr class="even">
 <td style="text-align:left;width:20%;font-weight:bold;">Enrollment Status</td>
-<td style="text-align:left;width:20%">Prospect</td>
+<td style="text-align:left;width:20%">XXXXXX</td>
 <td style="text-align:left;width:20%;font-weight:bold;">Savings Advice Enabled </td>
-<td style="text-align:left;width:20%">true</td></tr>
+<td style="text-align:left;width:20%">XXXX</td></tr>
 <tr class="odd">
 <td style="text-align:left;width:20%;font-weight:bold;">Enrollment Type/Deadline</td>
 <td style="text-align:left;width:20%">Opt-In</td>
 <td style="text-align:left;width:20%;font-weight:bold;">Annual Increase</td>
-<td style="text-align:left;width:20%">Not Available</td></tr>
+<td style="text-align:left;width:20%">XXXXXXXX</td></tr>
 <tr class="even">
 <td style="text-align:left;width:20%;font-weight:bold;">Reason for Enrollment</td>
-<td style="text-align:left;width:20%">n/a</td>
+<td style="text-align:left;width:20%">XXXXXX</td>
 <td style="text-align:left;width:20%;font-weight:bold;">Date of Hire</td>
-<td style="text-align:left;width:20%">Mar 12, 1973&nbsp;(sent by provider)</td></tr>
+<td style="text-align:left;width:20%">XXXXXXX</td></tr>
 <tr class="odd">
 <td style="text-align:left;width:20%;font-weight:bold;">Default Preference</td>
-<td style="text-align:left;width:20%">Allow defaults</td>
+<td style="text-align:left;width:20%">XXXXXXX</td>
 <td style="text-align:left;width:20%;font-weight:bold;">Employment Status</td>
-<td style="text-align:left;width:20%">none</td></tr></tbody></table></span>	
+<td style="text-align:left;width:20%">XXXXX</td></tr></tbody></table></span>	
 	</div>
 		
 	<div class="pnl-tbl-frame-bot"><span class="pnl-tbl-frame-bot-span"></span></div> <!-- left, bottom, right -->
@@ -976,25 +743,6 @@ Y.use('fe-popup-menu', function(Y) {
 
 
 <div class="panel-divider-small"></div>	
-
-	
-
-
-
-
-
-
-
-	
-	
-
-
-
-
-
-
-					
-					
 
 
 <div id='popupmenu_sponsorInfo'></div>
@@ -1065,24 +813,6 @@ Y.use('fe-popup-menu', function(Y) {
 </script>
 		
 		
-		
-		
-		
-			
-		
-		
-		
-			
-					    
-		    
-		     
-			
-			
-		
-
-
-
-
 <div class="pnl-tbl-frame " id="pnlHolds-panel" style="">
 
 		<div id="pnlHolds-panel-collapser" class="collapser panel-collapser">
@@ -1127,17 +857,7 @@ Y.use('fe-popup-menu', function(Y) {
 
 		<div class="panel-divider-small"></div>	
 		
-				
-		
 			
-		    
-			 
-					
-		
-
-
-
-
 <div class="pnl-tbl-frame " id="pnlRetirementIncome-panel" style="">
 
 		<div id="pnlRetirementIncome-panel-collapser" class="collapser panel-collapser">
@@ -1162,15 +882,15 @@ Y.use('fe-popup-menu', function(Y) {
 <tbody>
 <tr class="odd">
 <td style="text-align:left;width:51%">Retirement Income Eligible?</td>
-<td style="text-align:left;width:51%"><span id='spnElig'>No</span></td>
+<td style="text-align:left;width:51%"><span id='spnElig'>XXXXXX</span></td>
 <td style="text-align:left;width:51%"></td></tr>
 <tr class="even">
 <td style="text-align:left;width:51%">Investment Objective</td>
-<td style="text-align:left;width:51%"><span id='spnObjective'>Not set</span></td>
+<td style="text-align:left;width:51%"><span id='spnObjective'>XXXXXX</span></td>
 <td style="text-align:left;width:51%"></td></tr>
 <tr class="odd">
 <td style="text-align:left;width:51%">Payout Status</td>
-<td style="text-align:left;width:51%"><span id='spnStatus'>No payouts</span>. </td>
+<td style="text-align:left;width:51%"><span id='spnStatus'>XXXXX</span>. </td>
 <td style="text-align:left;width:51%"></td></tr></tbody></table></span>	
 	</div>
 		
@@ -1353,9 +1073,9 @@ Y.use('fe-popup-menu', function(Y) {
 							<td class="group-name">
 										
 									
-<a id="lnkacct_4673174__1" href="javascript:FE.openDialog({ href: &#34;https://www.feitest.com/maconsole/investanalysis.act?t\x3d4027353531721649663859979\x26s\x3dtst32013ibc5mjl001\x26pact\x3dmaconsole.clienthomenew\x26ep\x3dmaconsole\x252Fclientsearch.act\x26br\x3d581\x26id\x3d4673174\x253A\x253A1\x26accountName\x3d\x2524uper+\x2524aver+401\x2528k\x2529+Plan\x26analysisUrl\x3d\x252Fonlineadvice\x252Fjson_investanalysiscalc.act&#34; });" title="FE account ID: 4673174::1, External ID: 141781L64508655">											$uper $aver 401(k) Plan 
-											-- 401(k) 
-												, Terminated 
+<a id="lnkacct_4673174__1" href="javascript:FE.openDialog({ href: &#34;https://www.feitest.com/maconsole/investanalysis.act?t\x3d4027353531721649663859979\x26s\x3dtst32013ibc5mjl001\x26pact\x3dmaconsole.clienthomenew\x26ep\x3dmaconsole\x252Fclientsearch.act\x26br\x3d581\x26id\x3d4673174\x253A\x253A1\x26accountName\x3d\x2524uper+\x2524aver+401\x2528k\x2529+Plan\x26analysisUrl\x3d\x252Fonlineadvice\x252Fjson_investanalysiscalc.act&#34; });" title="FE account ID: 4673174::1, External ID: XXXXXXXXXX">											$XXX $XXX 401(k) Plan 
+											-- XXXX 
+												, XXXXX 
 </a>									
 								
 										<span class="eligible-management-icon"></span>
@@ -1374,14 +1094,14 @@ Y.use('fe-popup-menu', function(Y) {
 						
 							<td>
 								<div class="money" style="visibility: hidden;">
-$65,035.10								</div>
+$XXXXX								</div>
 							</td>
 						
 							<td></td>
 						
 							<td>
 										<div class='money'>
-$0<span class='per-year'>/yr</span>
+$X<span class='per-year'>/yr</span>
 										</div>
 											
 										<div class='float-left'>
@@ -1525,7 +1245,7 @@ AA Federal Credit Union										</a>
 							
 								<td>
 										<div id="balanceM::1015722" class='money'>
-$65,035.10										</div>
+$XXXXXXX										</div>
 								</td>
 							
 								<td>
@@ -1550,7 +1270,7 @@ Subtotal							</td>
 						
 							<td>
 								<div class='money'>
-$65,035.10								</div>
+$XXXXX								</div>
 							</td>
 						
 							<td></td>
@@ -1580,7 +1300,7 @@ $65,035.10								</div>
 					
 						<td>
 							<div class='money'>
-$65,035.10							</div>
+$XXXXXXXX							</div>
 						</td>
 					
 						<td></td>
